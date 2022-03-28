@@ -3,9 +3,9 @@
 ---
 <h1 align="center">I'm Nikita</h1>
 
-### Check out my blog:point_right: [Click Here](https://www.codewithtomi.ml/)
+### Check out my blog:point_right: [Click Here](https://github.com/zrxpty)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomitokko&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zrxpty&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
 ![Banner](https://raw.githubusercontent.com/tomitokko/tomitokko/main/channels4_banner.jpg)
 
