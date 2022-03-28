@@ -14,8 +14,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomitokko&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrxpty&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tomitokko&show_icons=true&locale=en" alt="tomitokko" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zrxpty&show_icons=true&locale=en" alt="tomitokko" /></p>
 
 
