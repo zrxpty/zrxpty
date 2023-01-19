@@ -25,4 +25,7 @@ Backend dev
 
 ### Socials
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrxpty&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <a href="https://www.github.com/zrxpty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
